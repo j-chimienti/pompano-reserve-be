@@ -1,0 +1,57 @@
+# Scala / Scala-CLI artifacts
+/out/
+*.class
+*.log
+*.target
+*.history
+.mill-*
+.metals/
+.bloop/
+.bsp/
+*.iml
+
+# Scala-cli specific
+.idea/
+.worksheet/
+.ammonite/
+scala-cli.cache/
+.scaclirc
+
+# build
+target/
+dist/
+
+# Docker
+*.dockerfile
+docker-compose.override.yml
+Dockerfile
+*.pid
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+*.lock
+logs/
+*.pid
+
+# Intellij IDEA
+.idea/
+*.iws
+*.iml
+.idea/*.xml
+
+# System-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Others
+.vscode/
+node_modules/
+*.tmp
+*.bak

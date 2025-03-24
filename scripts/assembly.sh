@@ -1,0 +1,1 @@
+scala-cli --power package --assembly . --main-class Main -f

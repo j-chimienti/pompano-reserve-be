@@ -1,0 +1,1 @@
+scala-cli --power dependency-update --all project.scala

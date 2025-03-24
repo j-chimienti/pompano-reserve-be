@@ -1,0 +1,1 @@
+0 6 * * 1-6 /pompano-golf-reservation/schedule.sh

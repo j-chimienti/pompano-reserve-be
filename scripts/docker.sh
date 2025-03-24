@@ -1,0 +1,1 @@
+scala-cli --power package --main-class Main --docker . --docker-image-repository pompano-golf-reservation

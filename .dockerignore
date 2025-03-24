@@ -1,0 +1,8 @@
+run.sh
+updateDeps.sh
+upload.sh
+.env
+golfreserve.joechimienti.com
+.idea
+.bsp
+.scala-build
